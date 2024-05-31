@@ -1,0 +1,6 @@
+slack:
+  - id: ""
+    slack_channel: ""
+    slack_username: ""
+    slack_format: "{{data}}"
+    slack_webhook_url: ""
