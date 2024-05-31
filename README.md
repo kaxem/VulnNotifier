@@ -25,5 +25,4 @@ docker build -t VulnNotifier:v0.1 .
 docker run -d VulnNotifier:v0.1
 ```
 
-Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss your ideas or improvements.
